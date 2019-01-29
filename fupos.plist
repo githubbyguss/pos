@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<!--
-   pos.plist
-   星火
-   Created by Alvin on 17/2/23.
-   Copyright (c) 2017年 Alvin. All rights reserved.
--->
 <plist version="1.0">
     <dict>
         <key>items</key>
