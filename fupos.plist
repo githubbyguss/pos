@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   pos.plist
+   星火
+   Created by Alvin on 17/2/23.
+   Copyright (c) 2017年 Alvin. All rights reserved.
+-->
+<plist version="1.0">
+    <dict>
+        <key>items</key>
+        <array>
+            <dict>
+                <key>assets</key>
+                <array>
+                    <dict>
+                        <key>kind</key>
+                        <string>software-package</string>
+                        <key>url</key>
+                        <string>http://pos.ibaiqiu.com/mobile/ios/FuPOS.ipa</string>
+                    </dict>
+                    <dict>
+                        <key>kind</key>
+                        <string>full-size-image</string>
+                        <key>needs-shine</key>
+                        <false/>
+                        <key>url</key>
+                        <string>http://124.251.55.217:8080/file/attachment/512.png</string>
+                    </dict>
+                    <dict>
+                        <key>kind</key>
+                        <string>display-image</string>
+                        <key>needs-shine</key>
+                        <false/>
+                        <key>url</key>
+                        <string>http://124.251.55.217:8080/file/attachment/57.png</string>
+                    </dict>
+                </array>
+                <key>metadata</key>
+                <dict>
+                    <key>bundle-identifier</key>
+                    <string>com.ibaiqiu.POSEnterprise</string>
+                    <key>bundle-version</key>
+                    <string>1.0</string>
+                    <key>kind</key>
+                    <string>software</string>
+                    <key>subtitle</key>
+                    <string></string>
+                    <key>title</key>
+                    <string>星火</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
